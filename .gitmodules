@@ -1,0 +1,3 @@
+[submodule "vente-auto-backend"]
+	path = vente-auto-backend
+	url = https://github.com/Sekou777/vente-auto-backend.git
